@@ -23,4 +23,3 @@ let adLink = 'https://www.ecust.edu.cn/';
 document.getElementsByTagName("title")[0].innerText = '合成小信息';
 
 let selectModal = false;
-
