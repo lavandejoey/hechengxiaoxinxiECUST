@@ -1,0 +1,3 @@
+C:\Users\lavandejoey\Documents\Programming_Code\vsProgramming\HeCheng_DaXiGua\ECUST\obj\Debug\ECUST.njsprojAssemblyReference.cache
+C:\Users\lavandejoey\Documents\Programming_Code\vsProgramming\HeCheng_DaXiGua\ECUST\obj\Debug\ECUST.njsproj.CoreCompileInputs.cache
+C:\Users\lavandejoey\Documents\Programming_Code\vsProgramming\HeCheng_DaXiGua\ECUST\bin\Microsoft.NodejsTools.WebRole.dll
