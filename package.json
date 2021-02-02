@@ -1,0 +1,9 @@
+{
+  "name": "hechengdaxigua-ecust",
+  "version": "1.0.0",
+  "description": "hechengdaxiguaECUST",
+  "main": "app.js",
+  "author": {
+    "name": "lzyECUSTer"
+  }
+}
